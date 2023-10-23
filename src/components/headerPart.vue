@@ -320,7 +320,17 @@
 
 <script>
 export default {
-  name: "headerPart"
+  name: "headerPart",
+  data(){
+    return {
+      date:{}
+    }
+  },
+  mounted(){
+      this.date = this.$getDate();
+  },
+  methods:{
+  }
 }
 </script>
 

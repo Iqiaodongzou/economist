@@ -1,12 +1,9 @@
 <template>
 <div class="wrap">
-
   <div class="styled-masthead css-ys0l65 e1cbhapq0">
     <headerPart />
   </div>
-  <div>
-    <router-view />
-  </div>
+  <router-view />
   <footerPart />
 </div>
 </template>

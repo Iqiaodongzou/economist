@@ -67,13 +67,13 @@
                     <img alt="" loading="lazy" width="1280" height="720" decoding="async" data-nimg="1"
                          style="color:transparent"
                          sizes="(min-width: 1440px) 700px, (min-width: 1280px) 50vw, (min-width: 960px) 66vw, 95vw"
-                         :src="item.hasPart.parts[0].image.main?.url.canonical">
+                         :src="item.hasPart?.parts[0].image.main?.url.canonical">
                   </figure>
                 </div>
                 <h3 class="css-zmb6q0 e1rr6cni0">
-                  <a :href="item.hasPart.parts[0].url.canonical"
-                     data-analytics="topical_content_6:headline_1">{{item.hasPart.parts[0]?.articleSection?.internal ? item.hasPart.parts[0]?.articleSection?.internal[0]?.headline + ' | ' : ''}}{{ item.hasPart.parts[0].headline }}</a></h3>
-                <p class="css-1xxp0vh er8c6600">{{ item.hasPart.parts[0].description }}</p>
+                  <a :href="item.hasPart?.parts[0].url.canonical"
+                     data-analytics="topical_content_6:headline_1">{{item.hasPart.parts[0]?.articleSection?.internal ? item?.hasPart?.parts[0]?.articleSection?.internal[0]?.headline + ' | ' : ''}}{{ item?.hasPart?.parts[0].headline }}</a></h3>
+                <p class="css-1xxp0vh er8c6600">{{ item?.hasPart?.parts[0].description }}</p>
               </div>
             </div>
             <div class="css-1olanph e1mdktgm0" >
@@ -87,7 +87,6 @@
                            style="color:transparent"
                            sizes="(min-width: 1440px) 700px, (min-width: 1280px) 50vw, (min-width: 960px) 66vw, 95vw"
                            :src="items.image.main?.url.canonical"
-                           :srcset="items.image?.promo?.url?.canonical"
                       >
                     </figure>
                   </div>
@@ -136,19 +135,9 @@ export default {
   },
   props: ['hasPart'],
   methods:{
-    changeImg(){
-      this.parts.map(item=>{
-        item.hasPart.parts.map(items=>{
-          if(items.image.main?.url){
-            items.image.main.url.canonical = items.image.main.url.canonical.split("article_link=")[1]
-          }
-        })
-      })
-    }
+
   },
   mounted() {
-    // 处理img图片
-    this.changeImg()
   }
 
 }

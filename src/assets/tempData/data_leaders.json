@@ -1,0 +1,3587 @@
+{
+  "props": {
+    "pageProps": {
+      "readerId": "",
+      "contactId": "",
+      "pageUrl": "http://54.190.52.30:8081/query/article?article_link=leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good",
+      "domain": "https://www.economist.com",
+      "auth": {
+        "loggedIn": false,
+        "verified": false,
+        "isAnonymous": true,
+        "isSubscriber": false,
+        "bulkSubscriber": false,
+        "userType": "anonymous"
+      },
+      "pageType": "ARTICLE",
+      "isSubscriber": false,
+      "region": "US",
+      "content": {
+        "url": {
+          "canonical": "http://54.190.52.30:8081/query/article?article_link=leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good",
+          "__typename": "URL"
+        },
+        "__typename": "Content",
+        "id": "/content/erh2r5ocsuuf7qklp742od3e516g9cjf",
+        "tegID": "erh2r5ocsuuf7qklp742od3e516g9cjf",
+        "type": [
+          "Article",
+          "NewsArticle",
+          "AnalysisNewsArticle"
+        ],
+        "headline": "America’s Republicans cannot agree on a speaker. Good",
+        "subheadline": "Speaking of goat rodeos",
+        "seoPageTitle": null,
+        "seoMetadataDescription": null,
+        "ad": {
+          "grapeshot": {
+            "channels": [
+              {
+                "name": "gv_safe",
+                "score": 32307.174,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "gb_safe",
+                "score": 6.495,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "gb_safe_from_high",
+                "score": 6.495,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "gb_safe_from_high_med",
+                "score": 6.495,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "gs_politics",
+                "score": 6.483,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "neg_goldmansachs_brandsafety",
+                "score": 6.483,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "america_campaigns_elections",
+                "score": 4.425,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "gs_science",
+                "score": 4.248,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "gs_science_geography",
+                "score": 4.248,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "ibm_blacklist",
+                "score": 4.161,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "neg_omd_exclusion",
+                "score": 3.682,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "neg_morgan_stanley_2019_neg_keywords",
+                "score": 3.59,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "politics_general",
+                "score": 3.561,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "america_white_house",
+                "score": 3.273,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "legal_law",
+                "score": 3.169,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "gs_politics_issues_policy",
+                "score": 2.787,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "gs_politics_misc",
+                "score": 2.787,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "gs_politics_american",
+                "score": 2.472,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "chanel_neg",
+                "score": 2.286,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "gt_mixed",
+                "score": 2.239,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "neg_3166_vca_brand-safety",
+                "score": 2.174,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "america_supreme_court",
+                "score": 2.096,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "america_department_justice",
+                "score": 2.094,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "neg_israel-hamas_war",
+                "score": 1.911,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "gs_tech",
+                "score": 1.886,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "america_department_security",
+                "score": 1.817,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "shadow9hu7_pos_israel-hamas_war",
+                "score": 1.572,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "checks_and_balance_newsletter",
+                "score": 1.526,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "egypt_air",
+                "score": 1.513,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "neg_ey_kwbl",
+                "score": 1.475,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "neg_facebook",
+                "score": 1.416,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "america_nanny_state",
+                "score": 1.324,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "ssga_american_growth",
+                "score": 1.32,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "gs_tech_compute",
+                "score": 1.293,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "fidelity_blacklist",
+                "score": 1.23,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "neg_zegna",
+                "score": 1.227,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "neg_zegna23",
+                "score": 1.227,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "neg_hsbc_asean_keywords",
+                "score": 1.224,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "america_department_education",
+                "score": 1.218,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "neg_sabic",
+                "score": 1.193,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "neg_ey_brandsafety",
+                "score": 1.186,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "ts_tech",
+                "score": 1.182,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "cigna_healthyhybridworkplace",
+                "score": 1.138,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "america_peace_movement",
+                "score": 1.083,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "ssg_debt_ceiling",
+                "score": 1.079,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "universal_negative_keywords",
+                "score": 1.027,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "eu_general",
+                "score": 0.951,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "president_trump_gs",
+                "score": 0.947,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "neg_3166_vca_brand-safety3",
+                "score": 0.943,
+                "__typename": "GrapeshotChannel"
+              }
+            ],
+            "__typename": "Grapeshot"
+          },
+          "__typename": "Ad"
+        },
+        "audio": {
+          "main": {
+            "url": {
+              "canonical": "https://www.economist.com/media-assets/audio/006%20Leaders%20-%20American%20politics-1d0cc3f469d50c5e3c5f8e55e0486b99.mp3",
+              "__typename": "URL"
+            },
+            "__typename": "Content",
+            "duration": "4:39",
+            "hasPart": {
+              "parts": [
+                {
+                  "podcastLocked": false,
+                  "headline": "America’s Republicans cannot agree on a speaker. Good",
+                  "datePublished": "2023-10-19T12:32:02Z",
+                  "publication": [
+                    {
+                      "type": [
+                        "PublicationIssue"
+                      ],
+                      "headline": "WEEKLY EDITION: OCT 21ST 2023",
+                      "__typename": "Content"
+                    },
+                    {
+                      "type": [
+                        "PublicationIssue",
+                        "RegionalIssue"
+                      ],
+                      "headline": "WEEKLY EDITION: OCT 21ST 2023",
+                      "__typename": "Content"
+                    },
+                    {
+                      "type": [
+                        "PublicationIssue",
+                        "RegionalIssue"
+                      ],
+                      "headline": "WEEKLY EDITION: OCT 21ST 2023",
+                      "__typename": "Content"
+                    },
+                    {
+                      "type": [
+                        "PublicationIssue",
+                        "RegionalIssue"
+                      ],
+                      "headline": "WEEKLY EDITION: OCT 21ST 2023",
+                      "__typename": "Content"
+                    },
+                    {
+                      "type": [
+                        "PublicationIssue",
+                        "RegionalIssue"
+                      ],
+                      "headline": "WEEKLY EDITION: OCT 21ST 2023",
+                      "__typename": "Content"
+                    },
+                    {
+                      "type": [
+                        "PublicationIssue",
+                        "RegionalIssue"
+                      ],
+                      "headline": "WEEKLY EDITION: OCT 21ST 2023",
+                      "__typename": "Content"
+                    },
+                    {
+                      "type": [
+                        "PublicationIssue",
+                        "RegionalIssue"
+                      ],
+                      "headline": "WEEKLY EDITION: OCT 21ST 2023",
+                      "__typename": "Content"
+                    },
+                    {
+                      "type": [
+                        "PublicationIssue",
+                        "RegionalIssue"
+                      ],
+                      "headline": "WEEKLY EDITION: OCT 21ST 2023",
+                      "__typename": "Content"
+                    }
+                  ],
+                  "__typename": "Content"
+                }
+              ],
+              "__typename": "HasPart"
+            }
+          },
+          "__typename": "Media"
+        },
+        "image": {
+          "main": {
+            "url": {
+              "canonical": "https://www.economist.com/media-assets/image/20231021_LDP001.jpg",
+              "__typename": "URL"
+            },
+            "__typename": "Content",
+            "height": 720,
+            "width": 1280,
+            "description": "The empty seat of the US House Speaker"
+          },
+          "promo": null,
+          "__typename": "Media"
+        },
+        "description": "How the GOP could yet, inadvertently, further the national interest",
+        "datePublished": "2023-10-19T12:32:02Z",
+        "dateModified": "2023-10-19T20:07:25Z",
+        "dateRevised": "2023-10-19T12:32:05Z",
+        "dateRevisedString": "Oct 19th 2023",
+        "datePublishedString": "Oct 19th 2023",
+        "dateCreated": "2023-10-19T07:57:56Z",
+        "copyrightYear": 2023,
+        "inLanguage": "en",
+        "byline": "",
+        "dateline": null,
+        "topic": [
+          "United States"
+        ],
+        "text": [
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "type": "tag",
+                "name": "span",
+                "attribs": {
+                  "data-caps": "initial"
+                },
+                "children": [
+                  {
+                    "data": "T",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "tag",
+                "name": "small",
+                "attribs": {},
+                "children": [
+                  {
+                    "data": "he view",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "data": " of the world from the White House end of Pennsylvania Avenue looks like this: ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "http://54.190.52.30:8081/query/article?article_link=the-economist-explains/2023/10/10/how-powerful-is-hamas"
+                },
+                "children": [
+                  {
+                    "data": "Hamas",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "data": " has attacked Israel, one of America’s closest allies. The biggest war in Europe since 1945 is raging, and Ukraine needs American support to prevent it from being swallowed by ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "http://54.190.52.30:8081/query/article?article_link=briefing/2023/10/17/putins-plan-to-profit-from-the-israel-hamas-war"
+                },
+                "children": [
+                  {
+                    "data": "Vladimir Putin",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "data": ". Taiwan also needs help. And a government shutdown is looming. Meanwhile at the other end of Pennsylvania Avenue, the world looks like a lot of men in suits arguing about who should be in charge of the meeting. ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "http://54.190.52.30:8081/query/article?article_link=united-states/2023/10/19/how-the-republican-civil-war-in-the-house-could-end"
+                },
+                "children": [
+                  {
+                    "data": "House Republicans",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "data": " have spent two weeks squabbling about who should be speaker. Congress is paralysed. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "data": "It has been a poorly timed piece of self-indulgence. Fortunately, there is a chance of a reprieve. That could mean a Congress that works slightly better, at least temporarily, plus a fresh package of military support for Israel and for Ukraine (and perhaps for Taiwan too). The government may even stay open.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "data": "To recap, on October 3rd Kevin McCarthy, the House speaker, was sacked by a small faction of Republicans led by Matt Gaetz, an elaborately coiffured nepo-politician who seemed to be acting out of personal animus. With Mr McCarthy gone, Steve Scalise, an affable congressman from Louisiana who has spent a decade climbing the Republican leadership ladder, tried his luck. He was rejected by the House Republican caucus, too.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "data": "Then Jim Jordan, a congressman from Ohio who is known for his dogged support of Donald Trump’s efforts to overturn the election of 2020 and his delight in shutting down the government at every opportunity, put himself forward for the position. This would have been like placing the most unco-operative member of a team in charge of running it, in the hope that the result would be less disruption. Mr Jordan was rejected as well. The Republicans have such a thin majority in the House that once the regicide has begun, it is hard to end the bloodletting.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "data": "While this abdication of responsibility has been under way, the House has had a temporary speaker, Patrick McHenry of North Carolina. The hitherto obscure Mr McHenry has yet to receive the memo about his party being the tribunes of working-class Americans, and has never been seen in public without a bow-tie on. Yet Mr McHenry may also, by a bizarre sequence of events, now find himself in a position to change the fate of more than one country.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "data": "Both parties are keen to support Israel. There is also majority support in the House for continuing to arm Ukraine and fund the American government. But the Republicans who run the House have long refused to allow bills to come to a vote unless they enjoy the support of a majority of Republican lawmakers. So matters of great importance have been left to fester.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "data": "One possible (and indeed plausible) solution is that support for Israel is packaged together with support for Ukraine and Taiwan, some more money for border security and a ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "http://54.190.52.30:8081/query/article?article_link=leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good",
+                  "data-tegid": "erh2r5ocsuuf7qklp742od3e516g9cjf"
+                },
+                "children": [
+                  {
+                    "data": "bill",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "data": " to keep the government funded until this time next year.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "data": "The principles of good governance suggest these matters should be considered one by one. The dealmaking required to get them through the House, however, suggests lumping them together. Given the necessary authority, Mr McHenry could shepherd such a bill through with support from Democrats. And, because he does not officially have the job of speaker, he cannot easily be removed by his own side, as Mr McCarthy was.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "data": "Some combination of Republicans and Democrats should grant Mr McHenry the authority, at least for now, to bring bills to the floor. All it would take is a simple majority. For pragmatic Republicans who are fed up with being at the mercy of their party’s least constructive lawmakers, it is an opportunity to break the logjam. They should take it. Israel, Taiwan and Ukraine need American help. America needs a Congress that can consider legislation. Right now it has urgent work to do. ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "span",
+                "attribs": {
+                  "data-ornament": "ufinish"
+                },
+                "children": [
+                  {
+                    "data": "■",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "bodyText": "The view of the world from the White House end of Pennsylvania Avenue looks like this: Hamas has attacked Israel, one of America’s closest allies. The biggest war in Europe since 1945 is raging, and Ukraine needs American support to prevent it from being swallowed by Vladimir Putin. Taiwan also needs help. And a government shutdown is looming. Meanwhile at the other end of Pennsylvania Avenue, the world looks like a lot of men in suits arguing about who should be in charge of the meeting. House Republicans have spent two weeks squabbling about who should be speaker. Congress is paralysed. \nIt has been a poorly timed piece of self-indulgence. Fortunately, there is a chance of a reprieve. That could mean a Congress that works slightly better, at least temporarily, plus a fresh package of military support for Israel and for Ukraine (and perhaps for Taiwan too). The government may even stay open.\nTo recap, on October 3rd Kevin McCarthy, the House speaker, was sacked by a small faction of Republicans led by Matt Gaetz, an elaborately coiffured nepo-politician who seemed to be acting out of personal animus. With Mr McCarthy gone, Steve Scalise, an affable congressman from Louisiana who has spent a decade climbing the Republican leadership ladder, tried his luck. He was rejected by the House Republican caucus, too.\nThen Jim Jordan, a congressman from Ohio who is known for his dogged support of Donald Trump’s efforts to overturn the election of 2020 and his delight in shutting down the government at every opportunity, put himself forward for the position. This would have been like placing the most unco-operative member of a team in charge of running it, in the hope that the result would be less disruption. Mr Jordan was rejected as well. The Republicans have such a thin majority in the House that once the regicide has begun, it is hard to end the bloodletting.\nWhile this abdication of responsibility has been under way, the House has had a temporary speaker, Patrick McHenry of North Carolina. The hitherto obscure Mr McHenry has yet to receive the memo about his party being the tribunes of working-class Americans, and has never been seen in public without a bow-tie on. Yet Mr McHenry may also, by a bizarre sequence of events, now find himself in a position to change the fate of more than one country.\nBoth parties are keen to support Israel. There is also majority support in the House for continuing to arm Ukraine and fund the American government. But the Republicans who run the House have long refused to allow bills to come to a vote unless they enjoy the support of a majority of Republican lawmakers. So matters of great importance have been left to fester.\nOne possible (and indeed plausible) solution is that support for Israel is packaged together with support for Ukraine and Taiwan, some more money for border security and a bill to keep the government funded until this time next year.\nThe principles of good governance suggest these matters should be considered one by one. The dealmaking required to get them through the House, however, suggests lumping them together. Given the necessary authority, Mr McHenry could shepherd such a bill through with support from Democrats. And, because he does not officially have the job of speaker, he cannot easily be removed by his own side, as Mr McCarthy was.\nSome combination of Republicans and Democrats should grant Mr McHenry the authority, at least for now, to bring bills to the floor. All it would take is a simple majority. For pragmatic Republicans who are fed up with being at the mercy of their party’s least constructive lawmakers, it is an opportunity to break the logjam. They should take it. Israel, Taiwan and Ukraine need American help. America needs a Congress that can consider legislation. Right now it has urgent work to do. ■",
+        "about": {
+          "public": null,
+          "__typename": "Taxonomies"
+        },
+        "print": {
+          "headline": "Speaking of goat rodeos",
+          "section": {
+            "url": {
+              "canonical": "http://54.190.52.30:8081/query/article?article_link=leaders/",
+              "__typename": "URL"
+            },
+            "__typename": "Content",
+            "headline": "Leaders"
+          },
+          "__typename": "Print"
+        },
+        "articleSection": {
+          "public": null,
+          "internal": [
+            {
+              "url": {
+                "canonical": "http://54.190.52.30:8081/query/article?article_link=leaders/",
+                "__typename": "URL"
+              },
+              "__typename": "Content",
+              "id": "/content/0eqdc3kshoq96naup34ruco7pktc6n51",
+              "tegID": "0eqdc3kshoq96naup34ruco7pktc6n51",
+              "headline": "Leaders",
+              "hasPart": {
+                "parts": [
+                  {
+                    "url": {
+                      "canonical": "http://54.190.52.30:8081/query/article?article_link=leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good",
+                      "__typename": "URL"
+                    },
+                    "__typename": "Content",
+                    "id": "/content/erh2r5ocsuuf7qklp742od3e516g9cjf",
+                    "type": [
+                      "Article",
+                      "NewsArticle",
+                      "AnalysisNewsArticle"
+                    ],
+                    "headline": "America’s Republicans cannot agree on a speaker. Good",
+                    "subheadline": "Speaking of goat rodeos",
+                    "datePublished": "2023-10-19T12:32:02Z",
+                    "description": "How the GOP could yet, inadvertently, further the national interest",
+                    "image": {
+                      "main": {
+                        "url": {
+                          "canonical": "https://www.economist.com/media-assets/image/20231021_LDP001.jpg",
+                          "__typename": "URL"
+                        },
+                        "__typename": "Content",
+                        "width": 1280,
+                        "height": 720
+                      },
+                      "__typename": "Media",
+                      "promo": null
+                    }
+                  },
+                  {
+                    "url": {
+                      "canonical": "http://54.190.52.30:8081/query/article?article_link=leaders/2023/10/19/how-to-make-britains-health-service-ai-ready",
+                      "__typename": "URL"
+                    },
+                    "__typename": "Content",
+                    "id": "/content/fnerpbbuid9mt0bl28hebhv1kph11ki6",
+                    "type": [
+                      "Article",
+                      "NewsArticle",
+                      "AnalysisNewsArticle"
+                    ],
+                    "headline": "How to make Britain’s health service AI-ready",
+                    "subheadline": "Polishing the crown jewels",
+                    "datePublished": "2023-10-19T12:32:02Z",
+                    "description": "The NHS should clean up and open up its data. Patients will benefit",
+                    "image": {
+                      "main": {
+                        "url": {
+                          "canonical": "https://www.economist.com/media-assets/image/20231021_LDD002.jpg",
+                          "__typename": "URL"
+                        },
+                        "__typename": "Content",
+                        "width": 1280,
+                        "height": 720
+                      },
+                      "__typename": "Media",
+                      "promo": null
+                    }
+                  },
+                  {
+                    "url": {
+                      "canonical": "http://54.190.52.30:8081/query/article?article_link=leaders/2023/10/19/the-stakes-could-hardly-be-higher-in-the-israel-gaza-conflict",
+                      "__typename": "URL"
+                    },
+                    "__typename": "Content",
+                    "id": "/content/p5huijmr7qa1otelgbbh4nuiultvp8h9",
+                    "type": [
+                      "Article",
+                      "NewsArticle",
+                      "AnalysisNewsArticle"
+                    ],
+                    "headline": "Only America can save Israel and Gaza from greater catastrophe",
+                    "subheadline": "The Middle East",
+                    "datePublished": "2023-10-19T09:33:29Z",
+                    "description": "Iran, Russia and China are profiting from the mayhem",
+                    "image": {
+                      "main": {
+                        "url": {
+                          "canonical": "https://www.economist.com/media-assets/image/20231021_LDD001.jpg",
+                          "__typename": "URL"
+                        },
+                        "__typename": "Content",
+                        "width": 1280,
+                        "height": 720
+                      },
+                      "__typename": "Media",
+                      "promo": null
+                    }
+                  },
+                  {
+                    "url": {
+                      "canonical": "http://54.190.52.30:8081/query/article?article_link=leaders/2023/10/19/why-americas-banks-need-more-capital",
+                      "__typename": "URL"
+                    },
+                    "__typename": "Content",
+                    "id": "/content/acib0a8vu7ir5chqd55ghs1s7l2eu381",
+                    "type": [
+                      "Article",
+                      "NewsArticle",
+                      "AnalysisNewsArticle"
+                    ],
+                    "headline": "Why America’s banks need more capital",
+                    "subheadline": "A brush with Basel",
+                    "datePublished": "2023-10-19T09:29:17Z",
+                    "description": "Though imperfect, regulators’ plans are necessary to keep the system safe",
+                    "image": {
+                      "main": {
+                        "url": {
+                          "canonical": "https://www.economist.com/media-assets/image/20231021_LDD003.jpg",
+                          "__typename": "URL"
+                        },
+                        "__typename": "Content",
+                        "width": 1280,
+                        "height": 720
+                      },
+                      "__typename": "Media",
+                      "promo": null
+                    }
+                  },
+                  {
+                    "url": {
+                      "canonical": "http://54.190.52.30:8081/query/article?article_link=leaders/2023/10/17/poland-shows-that-populists-can-be-beaten",
+                      "__typename": "URL"
+                    },
+                    "__typename": "Content",
+                    "id": "/content/tod2bd9fv4pkqocuq4f3u3b5pav6n9ur",
+                    "type": [
+                      "Article",
+                      "NewsArticle",
+                      "AnalysisNewsArticle"
+                    ],
+                    "headline": "Poland shows that populists can be beaten",
+                    "subheadline": "At last, good news",
+                    "datePublished": "2023-10-17T18:23:00Z",
+                    "description": "A victory for the rule of law in the heart of Europe",
+                    "image": {
+                      "main": {
+                        "url": {
+                          "canonical": "https://www.economist.com/media-assets/image/20231021_LDP503.jpg",
+                          "__typename": "URL"
+                        },
+                        "__typename": "Content",
+                        "width": 1280,
+                        "height": 720
+                      },
+                      "__typename": "Media",
+                      "promo": null
+                    }
+                  }
+                ],
+                "__typename": "HasPart"
+              }
+            }
+          ],
+          "__typename": "Taxonomies"
+        },
+        "publication": [
+          {
+            "url": {
+              "canonical": "http://54.190.52.30:8081/query/article?article_link=printedition/2023-10-21",
+              "__typename": "URL"
+            },
+            "__typename": "Content",
+            "type": [
+              "PublicationIssue"
+            ],
+            "headline": "WEEKLY EDITION: OCT 21ST 2023",
+            "description": "",
+            "subheadline": "",
+            "datePublished": "2023-10-21T00:00:00Z",
+            "datePublishedString": "Oct 21st 2023",
+            "id": "/content/bvpfffvvsq44s2unhlqnik1h3n5hg69p",
+            "tegID": "bvpfffvvsq44s2unhlqnik1h3n5hg69p",
+            "image": {
+              "cover": [
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_US.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "headline": "Where will this end?",
+                  "width": 1280,
+                  "height": 1684,
+                  "regionsAllowed": [
+                    "US",
+                    "CA",
+                    "PM",
+                    "UM",
+                    "AI",
+                    "BL",
+                    "BQ",
+                    "BV",
+                    "CW",
+                    "GS",
+                    "MF",
+                    "SX",
+                    "AG",
+                    "AR",
+                    "AW",
+                    "BS",
+                    "BB",
+                    "BZ",
+                    "BM",
+                    "BO",
+                    "BR",
+                    "KY",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CU",
+                    "DM",
+                    "DO",
+                    "EC",
+                    "SV",
+                    "FK",
+                    "GF",
+                    "GD",
+                    "GP",
+                    "GT",
+                    "GY",
+                    "HN",
+                    "HT",
+                    "JM",
+                    "MQ",
+                    "MX",
+                    "MS",
+                    "NI",
+                    "PA",
+                    "PY",
+                    "PE",
+                    "PR",
+                    "KN",
+                    "LC",
+                    "VC",
+                    "SR",
+                    "TT",
+                    "TC",
+                    "UY",
+                    "VE",
+                    "VG",
+                    "VI"
+                  ]
+                },
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_EU.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "headline": "Where will this end?",
+                  "width": 1280,
+                  "height": 1684,
+                  "regionsAllowed": [
+                    "AD",
+                    "AL",
+                    "AM",
+                    "AX",
+                    "AZ",
+                    "BA",
+                    "BG",
+                    "BY",
+                    "CH",
+                    "CY",
+                    "CZ",
+                    "EE",
+                    "FO",
+                    "GE",
+                    "GI",
+                    "GL",
+                    "HR",
+                    "HU",
+                    "IS",
+                    "KG",
+                    "KZ",
+                    "LI",
+                    "LT",
+                    "LV",
+                    "MC",
+                    "MD",
+                    "ME",
+                    "MK",
+                    "MT",
+                    "NO",
+                    "PL",
+                    "RO",
+                    "RS",
+                    "RU",
+                    "SI",
+                    "SJ",
+                    "SK",
+                    "SM",
+                    "TJ",
+                    "TM",
+                    "TR",
+                    "UA",
+                    "UZ",
+                    "VA",
+                    "IT",
+                    "FR",
+                    "ES",
+                    "IE",
+                    "AT",
+                    "BE",
+                    "DK",
+                    "FI",
+                    "DE",
+                    "GR",
+                    "LU",
+                    "NL",
+                    "PT",
+                    "SE",
+                    "BH",
+                    "IR",
+                    "IQ",
+                    "IL",
+                    "JO",
+                    "KW",
+                    "LB",
+                    "OM",
+                    "SA",
+                    "SY",
+                    "AE",
+                    "PS",
+                    "QA",
+                    "YE",
+                    "DZ",
+                    "AO",
+                    "BJ",
+                    "BW",
+                    "BF",
+                    "BI",
+                    "CM",
+                    "CV",
+                    "CF",
+                    "TD",
+                    "KM",
+                    "CD",
+                    "CI",
+                    "DJ",
+                    "EG",
+                    "GQ",
+                    "ER",
+                    "ET",
+                    "GA",
+                    "GM",
+                    "GH",
+                    "GN",
+                    "GW",
+                    "KE",
+                    "LS",
+                    "LR",
+                    "LY",
+                    "MG",
+                    "MU",
+                    "MW",
+                    "ML",
+                    "MR",
+                    "YT",
+                    "MA",
+                    "MZ",
+                    "NA",
+                    "NE",
+                    "NG",
+                    "RE",
+                    "RW",
+                    "SH",
+                    "SS",
+                    "ST",
+                    "SN",
+                    "SL",
+                    "SO",
+                    "ZA",
+                    "SD",
+                    "SZ",
+                    "TZ",
+                    "TG",
+                    "TN",
+                    "UG",
+                    "EH",
+                    "ZM",
+                    "ZW",
+                    "CG"
+                  ]
+                },
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_AP.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "headline": "Where will this end?",
+                  "width": 1280,
+                  "height": 1684,
+                  "regionsAllowed": [
+                    "AF",
+                    "AS",
+                    "AU",
+                    "BD",
+                    "BT",
+                    "BN",
+                    "KH",
+                    "CN",
+                    "CK",
+                    "FJ",
+                    "GU",
+                    "PF",
+                    "HK",
+                    "IN",
+                    "ID",
+                    "JP",
+                    "KI",
+                    "KP",
+                    "KR",
+                    "LA",
+                    "MO",
+                    "MY",
+                    "MV",
+                    "MH",
+                    "FM",
+                    "MN",
+                    "MM",
+                    "NR",
+                    "NP",
+                    "NC",
+                    "NZ",
+                    "PK",
+                    "PG",
+                    "PH",
+                    "PN",
+                    "SC",
+                    "SG",
+                    "SB",
+                    "LK",
+                    "TF",
+                    "TW",
+                    "TH",
+                    "TO",
+                    "TV",
+                    "VU",
+                    "VN",
+                    "IO",
+                    "CC",
+                    "TL",
+                    "HM",
+                    "NU",
+                    "NF",
+                    "MP",
+                    "PW",
+                    "WS",
+                    "CX",
+                    "TK",
+                    "WF"
+                  ]
+                },
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_EU.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "headline": "Where will this end?",
+                  "width": 1280,
+                  "height": 1684,
+                  "regionsAllowed": [
+                    "AD",
+                    "AL",
+                    "AM",
+                    "AX",
+                    "AZ",
+                    "BA",
+                    "BG",
+                    "BY",
+                    "CH",
+                    "CY",
+                    "CZ",
+                    "EE",
+                    "FO",
+                    "GE",
+                    "GI",
+                    "GL",
+                    "HR",
+                    "HU",
+                    "IS",
+                    "KG",
+                    "KZ",
+                    "LI",
+                    "LT",
+                    "LV",
+                    "MC",
+                    "MD",
+                    "ME",
+                    "MK",
+                    "MT",
+                    "NO",
+                    "PL",
+                    "RO",
+                    "RS",
+                    "RU",
+                    "SI",
+                    "SJ",
+                    "SK",
+                    "SM",
+                    "TJ",
+                    "TM",
+                    "TR",
+                    "UA",
+                    "UZ",
+                    "VA",
+                    "IT",
+                    "FR",
+                    "ES",
+                    "IE",
+                    "AT",
+                    "BE",
+                    "DK",
+                    "FI",
+                    "DE",
+                    "GR",
+                    "LU",
+                    "NL",
+                    "PT",
+                    "SE",
+                    "BH",
+                    "IR",
+                    "IQ",
+                    "IL",
+                    "JO",
+                    "KW",
+                    "LB",
+                    "OM",
+                    "SA",
+                    "SY",
+                    "AE",
+                    "PS",
+                    "QA",
+                    "YE",
+                    "DZ",
+                    "AO",
+                    "BJ",
+                    "BW",
+                    "BF",
+                    "BI",
+                    "CM",
+                    "CV",
+                    "CF",
+                    "TD",
+                    "KM",
+                    "CD",
+                    "CI",
+                    "DJ",
+                    "EG",
+                    "GQ",
+                    "ER",
+                    "ET",
+                    "GA",
+                    "GM",
+                    "GH",
+                    "GN",
+                    "GW",
+                    "KE",
+                    "LS",
+                    "LR",
+                    "LY",
+                    "MG",
+                    "MU",
+                    "MW",
+                    "ML",
+                    "MR",
+                    "YT",
+                    "MA",
+                    "MZ",
+                    "NA",
+                    "NE",
+                    "NG",
+                    "RE",
+                    "RW",
+                    "SH",
+                    "SS",
+                    "ST",
+                    "SN",
+                    "SL",
+                    "SO",
+                    "ZA",
+                    "SD",
+                    "SZ",
+                    "TZ",
+                    "TG",
+                    "TN",
+                    "UG",
+                    "EH",
+                    "ZM",
+                    "ZW",
+                    "CG"
+                  ]
+                },
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_UK.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "headline": "Where will this end?",
+                  "width": 1280,
+                  "height": 1684,
+                  "regionsAllowed": [
+                    "UK",
+                    "GB",
+                    "GG",
+                    "IM",
+                    "JE"
+                  ]
+                },
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_EU.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "headline": "Where will this end?",
+                  "width": 1280,
+                  "height": 1684,
+                  "regionsAllowed": [
+                    "AD",
+                    "AL",
+                    "AM",
+                    "AX",
+                    "AZ",
+                    "BA",
+                    "BG",
+                    "BY",
+                    "CH",
+                    "CY",
+                    "CZ",
+                    "EE",
+                    "FO",
+                    "GE",
+                    "GI",
+                    "GL",
+                    "HR",
+                    "HU",
+                    "IS",
+                    "KG",
+                    "KZ",
+                    "LI",
+                    "LT",
+                    "LV",
+                    "MC",
+                    "MD",
+                    "ME",
+                    "MK",
+                    "MT",
+                    "NO",
+                    "PL",
+                    "RO",
+                    "RS",
+                    "RU",
+                    "SI",
+                    "SJ",
+                    "SK",
+                    "SM",
+                    "TJ",
+                    "TM",
+                    "TR",
+                    "UA",
+                    "UZ",
+                    "VA",
+                    "IT",
+                    "FR",
+                    "ES",
+                    "IE",
+                    "AT",
+                    "BE",
+                    "DK",
+                    "FI",
+                    "DE",
+                    "GR",
+                    "LU",
+                    "NL",
+                    "PT",
+                    "SE",
+                    "BH",
+                    "IR",
+                    "IQ",
+                    "IL",
+                    "JO",
+                    "KW",
+                    "LB",
+                    "OM",
+                    "SA",
+                    "SY",
+                    "AE",
+                    "PS",
+                    "QA",
+                    "YE",
+                    "DZ",
+                    "AO",
+                    "BJ",
+                    "BW",
+                    "BF",
+                    "BI",
+                    "CM",
+                    "CV",
+                    "CF",
+                    "TD",
+                    "KM",
+                    "CD",
+                    "CI",
+                    "DJ",
+                    "EG",
+                    "GQ",
+                    "ER",
+                    "ET",
+                    "GA",
+                    "GM",
+                    "GH",
+                    "GN",
+                    "GW",
+                    "KE",
+                    "LS",
+                    "LR",
+                    "LY",
+                    "MG",
+                    "MU",
+                    "MW",
+                    "ML",
+                    "MR",
+                    "YT",
+                    "MA",
+                    "MZ",
+                    "NA",
+                    "NE",
+                    "NG",
+                    "RE",
+                    "RW",
+                    "SH",
+                    "SS",
+                    "ST",
+                    "SN",
+                    "SL",
+                    "SO",
+                    "ZA",
+                    "SD",
+                    "SZ",
+                    "TZ",
+                    "TG",
+                    "TN",
+                    "UG",
+                    "EH",
+                    "ZM",
+                    "ZW",
+                    "CG"
+                  ]
+                }
+              ],
+              "main": {
+                "url": {
+                  "canonical": "https://www.economist.com/media-assets/image/20231021_DE_US.jpg",
+                  "__typename": "URL"
+                },
+                "__typename": "Content",
+                "width": 1280,
+                "height": 1684
+              },
+              "squareCover": [
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_SQ_EU.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "width": 1280,
+                  "height": 1280
+                },
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_SQ_AP.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "width": 1280,
+                  "height": 1280
+                },
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_SQ_EU.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "width": 1280,
+                  "height": 1280
+                },
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_SQ_UK.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "width": 1280,
+                  "height": 1280
+                },
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_SQ_EU.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "width": 1280,
+                  "height": 1280
+                }
+              ],
+              "__typename": "Media"
+            }
+          },
+          {
+            "url": {
+              "canonical": "http://54.190.52.30:8081/query/article?article_link=eu/printedition/2023-10-21",
+              "__typename": "URL"
+            },
+            "__typename": "Content",
+            "type": [
+              "PublicationIssue",
+              "RegionalIssue"
+            ],
+            "headline": "WEEKLY EDITION: OCT 21ST 2023",
+            "description": "",
+            "subheadline": "",
+            "datePublished": "2023-10-21T00:00:00Z",
+            "datePublishedString": "Oct 21st 2023",
+            "id": "/content/pjj257q9a14vbkamgl0v288h08pg4ei8",
+            "tegID": "pjj257q9a14vbkamgl0v288h08pg4ei8",
+            "image": {
+              "cover": [
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_EU.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "headline": "Where will this end?",
+                  "width": 1280,
+                  "height": 1684,
+                  "regionsAllowed": [
+                    "AD",
+                    "AL",
+                    "AM",
+                    "AX",
+                    "AZ",
+                    "BA",
+                    "BG",
+                    "BY",
+                    "CH",
+                    "CY",
+                    "CZ",
+                    "EE",
+                    "FO",
+                    "GE",
+                    "GI",
+                    "GL",
+                    "HR",
+                    "HU",
+                    "IS",
+                    "KG",
+                    "KZ",
+                    "LI",
+                    "LT",
+                    "LV",
+                    "MC",
+                    "MD",
+                    "ME",
+                    "MK",
+                    "MT",
+                    "NO",
+                    "PL",
+                    "RO",
+                    "RS",
+                    "RU",
+                    "SI",
+                    "SJ",
+                    "SK",
+                    "SM",
+                    "TJ",
+                    "TM",
+                    "TR",
+                    "UA",
+                    "UZ",
+                    "VA",
+                    "IT",
+                    "FR",
+                    "ES",
+                    "IE",
+                    "AT",
+                    "BE",
+                    "DK",
+                    "FI",
+                    "DE",
+                    "GR",
+                    "LU",
+                    "NL",
+                    "PT",
+                    "SE",
+                    "BH",
+                    "IR",
+                    "IQ",
+                    "IL",
+                    "JO",
+                    "KW",
+                    "LB",
+                    "OM",
+                    "SA",
+                    "SY",
+                    "AE",
+                    "PS",
+                    "QA",
+                    "YE",
+                    "DZ",
+                    "AO",
+                    "BJ",
+                    "BW",
+                    "BF",
+                    "BI",
+                    "CM",
+                    "CV",
+                    "CF",
+                    "TD",
+                    "KM",
+                    "CD",
+                    "CI",
+                    "DJ",
+                    "EG",
+                    "GQ",
+                    "ER",
+                    "ET",
+                    "GA",
+                    "GM",
+                    "GH",
+                    "GN",
+                    "GW",
+                    "KE",
+                    "LS",
+                    "LR",
+                    "LY",
+                    "MG",
+                    "MU",
+                    "MW",
+                    "ML",
+                    "MR",
+                    "YT",
+                    "MA",
+                    "MZ",
+                    "NA",
+                    "NE",
+                    "NG",
+                    "RE",
+                    "RW",
+                    "SH",
+                    "SS",
+                    "ST",
+                    "SN",
+                    "SL",
+                    "SO",
+                    "ZA",
+                    "SD",
+                    "SZ",
+                    "TZ",
+                    "TG",
+                    "TN",
+                    "UG",
+                    "EH",
+                    "ZM",
+                    "ZW",
+                    "CG"
+                  ]
+                }
+              ],
+              "main": {
+                "url": {
+                  "canonical": "https://www.economist.com/media-assets/image/20231021_DE_EU.jpg",
+                  "__typename": "URL"
+                },
+                "__typename": "Content",
+                "width": 1280,
+                "height": 1684
+              },
+              "squareCover": [
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_SQ_EU.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "width": 1280,
+                  "height": 1280
+                }
+              ],
+              "__typename": "Media"
+            }
+          },
+          {
+            "url": {
+              "canonical": "http://54.190.52.30:8081/query/article?article_link=ap/printedition/2023-10-21",
+              "__typename": "URL"
+            },
+            "__typename": "Content",
+            "type": [
+              "PublicationIssue",
+              "RegionalIssue"
+            ],
+            "headline": "WEEKLY EDITION: OCT 21ST 2023",
+            "description": "",
+            "subheadline": "",
+            "datePublished": "2023-10-21T00:00:00Z",
+            "datePublishedString": "Oct 21st 2023",
+            "id": "/content/jnoqlk0cg6msv9obr9n9due07teccm6p",
+            "tegID": "jnoqlk0cg6msv9obr9n9due07teccm6p",
+            "image": {
+              "cover": [
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_AP.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "headline": "Where will this end?",
+                  "width": 1280,
+                  "height": 1684,
+                  "regionsAllowed": [
+                    "AF",
+                    "AS",
+                    "AU",
+                    "BD",
+                    "BT",
+                    "BN",
+                    "KH",
+                    "CN",
+                    "CK",
+                    "FJ",
+                    "GU",
+                    "PF",
+                    "HK",
+                    "IN",
+                    "ID",
+                    "JP",
+                    "KI",
+                    "KP",
+                    "KR",
+                    "LA",
+                    "MO",
+                    "MY",
+                    "MV",
+                    "MH",
+                    "FM",
+                    "MN",
+                    "MM",
+                    "NR",
+                    "NP",
+                    "NC",
+                    "NZ",
+                    "PK",
+                    "PG",
+                    "PH",
+                    "PN",
+                    "SC",
+                    "SG",
+                    "SB",
+                    "LK",
+                    "TF",
+                    "TW",
+                    "TH",
+                    "TO",
+                    "TV",
+                    "VU",
+                    "VN",
+                    "IO",
+                    "CC",
+                    "TL",
+                    "HM",
+                    "NU",
+                    "NF",
+                    "MP",
+                    "PW",
+                    "WS",
+                    "CX",
+                    "TK",
+                    "WF"
+                  ]
+                }
+              ],
+              "main": {
+                "url": {
+                  "canonical": "https://www.economist.com/media-assets/image/20231021_DE_AP.jpg",
+                  "__typename": "URL"
+                },
+                "__typename": "Content",
+                "width": 1280,
+                "height": 1684
+              },
+              "squareCover": [
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_SQ_AP.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "width": 1280,
+                  "height": 1280
+                }
+              ],
+              "__typename": "Media"
+            }
+          },
+          {
+            "url": {
+              "canonical": "http://54.190.52.30:8081/query/article?article_link=la/printedition/2023-10-21",
+              "__typename": "URL"
+            },
+            "__typename": "Content",
+            "type": [
+              "PublicationIssue",
+              "RegionalIssue"
+            ],
+            "headline": "WEEKLY EDITION: OCT 21ST 2023",
+            "description": "",
+            "subheadline": "",
+            "datePublished": "2023-10-21T00:00:00Z",
+            "datePublishedString": "Oct 21st 2023",
+            "id": "/content/dfk914ljdtrc1o3regj8aetemuansk9h",
+            "tegID": "dfk914ljdtrc1o3regj8aetemuansk9h",
+            "image": {
+              "cover": [
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_US.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "headline": "Where will this end?",
+                  "width": 1280,
+                  "height": 1684,
+                  "regionsAllowed": [
+                    "US",
+                    "CA",
+                    "PM",
+                    "UM",
+                    "AI",
+                    "BL",
+                    "BQ",
+                    "BV",
+                    "CW",
+                    "GS",
+                    "MF",
+                    "SX",
+                    "AG",
+                    "AR",
+                    "AW",
+                    "BS",
+                    "BB",
+                    "BZ",
+                    "BM",
+                    "BO",
+                    "BR",
+                    "KY",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CU",
+                    "DM",
+                    "DO",
+                    "EC",
+                    "SV",
+                    "FK",
+                    "GF",
+                    "GD",
+                    "GP",
+                    "GT",
+                    "GY",
+                    "HN",
+                    "HT",
+                    "JM",
+                    "MQ",
+                    "MX",
+                    "MS",
+                    "NI",
+                    "PA",
+                    "PY",
+                    "PE",
+                    "PR",
+                    "KN",
+                    "LC",
+                    "VC",
+                    "SR",
+                    "TT",
+                    "TC",
+                    "UY",
+                    "VE",
+                    "VG",
+                    "VI"
+                  ]
+                }
+              ],
+              "main": {
+                "url": {
+                  "canonical": "https://www.economist.com/media-assets/image/20231021_DE_US.jpg",
+                  "__typename": "URL"
+                },
+                "__typename": "Content",
+                "width": 1280,
+                "height": 1684
+              },
+              "squareCover": [
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_SQ_US.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "width": 1280,
+                  "height": 1280
+                }
+              ],
+              "__typename": "Media"
+            }
+          },
+          {
+            "url": {
+              "canonical": "http://54.190.52.30:8081/query/article?article_link=me/printedition/2023-10-21",
+              "__typename": "URL"
+            },
+            "__typename": "Content",
+            "type": [
+              "PublicationIssue",
+              "RegionalIssue"
+            ],
+            "headline": "WEEKLY EDITION: OCT 21ST 2023",
+            "description": "",
+            "subheadline": "",
+            "datePublished": "2023-10-21T00:00:00Z",
+            "datePublishedString": "Oct 21st 2023",
+            "id": "/content/93giihjoeur8fm2u5dr2g8lgksjogivr",
+            "tegID": "93giihjoeur8fm2u5dr2g8lgksjogivr",
+            "image": {
+              "cover": [
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_EU.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "headline": "Where will this end?",
+                  "width": 1280,
+                  "height": 1684,
+                  "regionsAllowed": [
+                    "AD",
+                    "AL",
+                    "AM",
+                    "AX",
+                    "AZ",
+                    "BA",
+                    "BG",
+                    "BY",
+                    "CH",
+                    "CY",
+                    "CZ",
+                    "EE",
+                    "FO",
+                    "GE",
+                    "GI",
+                    "GL",
+                    "HR",
+                    "HU",
+                    "IS",
+                    "KG",
+                    "KZ",
+                    "LI",
+                    "LT",
+                    "LV",
+                    "MC",
+                    "MD",
+                    "ME",
+                    "MK",
+                    "MT",
+                    "NO",
+                    "PL",
+                    "RO",
+                    "RS",
+                    "RU",
+                    "SI",
+                    "SJ",
+                    "SK",
+                    "SM",
+                    "TJ",
+                    "TM",
+                    "TR",
+                    "UA",
+                    "UZ",
+                    "VA",
+                    "IT",
+                    "FR",
+                    "ES",
+                    "IE",
+                    "AT",
+                    "BE",
+                    "DK",
+                    "FI",
+                    "DE",
+                    "GR",
+                    "LU",
+                    "NL",
+                    "PT",
+                    "SE",
+                    "BH",
+                    "IR",
+                    "IQ",
+                    "IL",
+                    "JO",
+                    "KW",
+                    "LB",
+                    "OM",
+                    "SA",
+                    "SY",
+                    "AE",
+                    "PS",
+                    "QA",
+                    "YE",
+                    "DZ",
+                    "AO",
+                    "BJ",
+                    "BW",
+                    "BF",
+                    "BI",
+                    "CM",
+                    "CV",
+                    "CF",
+                    "TD",
+                    "KM",
+                    "CD",
+                    "CI",
+                    "DJ",
+                    "EG",
+                    "GQ",
+                    "ER",
+                    "ET",
+                    "GA",
+                    "GM",
+                    "GH",
+                    "GN",
+                    "GW",
+                    "KE",
+                    "LS",
+                    "LR",
+                    "LY",
+                    "MG",
+                    "MU",
+                    "MW",
+                    "ML",
+                    "MR",
+                    "YT",
+                    "MA",
+                    "MZ",
+                    "NA",
+                    "NE",
+                    "NG",
+                    "RE",
+                    "RW",
+                    "SH",
+                    "SS",
+                    "ST",
+                    "SN",
+                    "SL",
+                    "SO",
+                    "ZA",
+                    "SD",
+                    "SZ",
+                    "TZ",
+                    "TG",
+                    "TN",
+                    "UG",
+                    "EH",
+                    "ZM",
+                    "ZW",
+                    "CG"
+                  ]
+                }
+              ],
+              "main": {
+                "url": {
+                  "canonical": "https://www.economist.com/media-assets/image/20231021_DE_EU.jpg",
+                  "__typename": "URL"
+                },
+                "__typename": "Content",
+                "width": 1280,
+                "height": 1684
+              },
+              "squareCover": [
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_SQ_EU.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "width": 1280,
+                  "height": 1280
+                }
+              ],
+              "__typename": "Media"
+            }
+          },
+          {
+            "url": {
+              "canonical": "http://54.190.52.30:8081/query/article?article_link=uk/printedition/2023-10-21",
+              "__typename": "URL"
+            },
+            "__typename": "Content",
+            "type": [
+              "PublicationIssue",
+              "RegionalIssue"
+            ],
+            "headline": "WEEKLY EDITION: OCT 21ST 2023",
+            "description": "",
+            "subheadline": "",
+            "datePublished": "2023-10-21T00:00:00Z",
+            "datePublishedString": "Oct 21st 2023",
+            "id": "/content/ccen7d3kjjlo00urlb5clf6psbe8d9an",
+            "tegID": "ccen7d3kjjlo00urlb5clf6psbe8d9an",
+            "image": {
+              "cover": [
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_UK.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "headline": "Where will this end?",
+                  "width": 1280,
+                  "height": 1684,
+                  "regionsAllowed": [
+                    "UK",
+                    "GB",
+                    "GG",
+                    "IM",
+                    "JE"
+                  ]
+                }
+              ],
+              "main": {
+                "url": {
+                  "canonical": "https://www.economist.com/media-assets/image/20231021_DE_UK.jpg",
+                  "__typename": "URL"
+                },
+                "__typename": "Content",
+                "width": 1280,
+                "height": 1684
+              },
+              "squareCover": [
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_SQ_UK.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "width": 1280,
+                  "height": 1280
+                }
+              ],
+              "__typename": "Media"
+            }
+          },
+          {
+            "url": {
+              "canonical": "http://54.190.52.30:8081/query/article?article_link=na/printedition/2023-10-21",
+              "__typename": "URL"
+            },
+            "__typename": "Content",
+            "type": [
+              "PublicationIssue",
+              "RegionalIssue"
+            ],
+            "headline": "WEEKLY EDITION: OCT 21ST 2023",
+            "description": "",
+            "subheadline": "",
+            "datePublished": "2023-10-21T00:00:00Z",
+            "datePublishedString": "Oct 21st 2023",
+            "id": "/content/f4abapdqk52dbb3jdjnd4r7ncl9o5o3p",
+            "tegID": "f4abapdqk52dbb3jdjnd4r7ncl9o5o3p",
+            "image": {
+              "cover": [
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_US.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "headline": "Where will this end?",
+                  "width": 1280,
+                  "height": 1684,
+                  "regionsAllowed": [
+                    "US",
+                    "CA",
+                    "PM",
+                    "UM",
+                    "AI",
+                    "BL",
+                    "BQ",
+                    "BV",
+                    "CW",
+                    "GS",
+                    "MF",
+                    "SX",
+                    "AG",
+                    "AR",
+                    "AW",
+                    "BS",
+                    "BB",
+                    "BZ",
+                    "BM",
+                    "BO",
+                    "BR",
+                    "KY",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CU",
+                    "DM",
+                    "DO",
+                    "EC",
+                    "SV",
+                    "FK",
+                    "GF",
+                    "GD",
+                    "GP",
+                    "GT",
+                    "GY",
+                    "HN",
+                    "HT",
+                    "JM",
+                    "MQ",
+                    "MX",
+                    "MS",
+                    "NI",
+                    "PA",
+                    "PY",
+                    "PE",
+                    "PR",
+                    "KN",
+                    "LC",
+                    "VC",
+                    "SR",
+                    "TT",
+                    "TC",
+                    "UY",
+                    "VE",
+                    "VG",
+                    "VI"
+                  ]
+                }
+              ],
+              "main": {
+                "url": {
+                  "canonical": "https://www.economist.com/media-assets/image/20231021_DE_US.jpg",
+                  "__typename": "URL"
+                },
+                "__typename": "Content",
+                "width": 1280,
+                "height": 1684
+              },
+              "squareCover": [
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_SQ_US.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "width": 1280,
+                  "height": 1280
+                }
+              ],
+              "__typename": "Media"
+            }
+          },
+          {
+            "url": {
+              "canonical": "http://54.190.52.30:8081/query/article?article_link=a/printedition/2023-10-21",
+              "__typename": "URL"
+            },
+            "__typename": "Content",
+            "type": [
+              "PublicationIssue",
+              "RegionalIssue"
+            ],
+            "headline": "WEEKLY EDITION: OCT 21ST 2023",
+            "description": "",
+            "subheadline": "",
+            "datePublished": "2023-10-21T00:00:00Z",
+            "datePublishedString": "Oct 21st 2023",
+            "id": "/content/o3fj58cgmo6etu04p9kphnbb4v45h7og",
+            "tegID": "o3fj58cgmo6etu04p9kphnbb4v45h7og",
+            "image": {
+              "cover": [
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_EU.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "headline": "Where will this end?",
+                  "width": 1280,
+                  "height": 1684,
+                  "regionsAllowed": [
+                    "AD",
+                    "AL",
+                    "AM",
+                    "AX",
+                    "AZ",
+                    "BA",
+                    "BG",
+                    "BY",
+                    "CH",
+                    "CY",
+                    "CZ",
+                    "EE",
+                    "FO",
+                    "GE",
+                    "GI",
+                    "GL",
+                    "HR",
+                    "HU",
+                    "IS",
+                    "KG",
+                    "KZ",
+                    "LI",
+                    "LT",
+                    "LV",
+                    "MC",
+                    "MD",
+                    "ME",
+                    "MK",
+                    "MT",
+                    "NO",
+                    "PL",
+                    "RO",
+                    "RS",
+                    "RU",
+                    "SI",
+                    "SJ",
+                    "SK",
+                    "SM",
+                    "TJ",
+                    "TM",
+                    "TR",
+                    "UA",
+                    "UZ",
+                    "VA",
+                    "IT",
+                    "FR",
+                    "ES",
+                    "IE",
+                    "AT",
+                    "BE",
+                    "DK",
+                    "FI",
+                    "DE",
+                    "GR",
+                    "LU",
+                    "NL",
+                    "PT",
+                    "SE",
+                    "BH",
+                    "IR",
+                    "IQ",
+                    "IL",
+                    "JO",
+                    "KW",
+                    "LB",
+                    "OM",
+                    "SA",
+                    "SY",
+                    "AE",
+                    "PS",
+                    "QA",
+                    "YE",
+                    "DZ",
+                    "AO",
+                    "BJ",
+                    "BW",
+                    "BF",
+                    "BI",
+                    "CM",
+                    "CV",
+                    "CF",
+                    "TD",
+                    "KM",
+                    "CD",
+                    "CI",
+                    "DJ",
+                    "EG",
+                    "GQ",
+                    "ER",
+                    "ET",
+                    "GA",
+                    "GM",
+                    "GH",
+                    "GN",
+                    "GW",
+                    "KE",
+                    "LS",
+                    "LR",
+                    "LY",
+                    "MG",
+                    "MU",
+                    "MW",
+                    "ML",
+                    "MR",
+                    "YT",
+                    "MA",
+                    "MZ",
+                    "NA",
+                    "NE",
+                    "NG",
+                    "RE",
+                    "RW",
+                    "SH",
+                    "SS",
+                    "ST",
+                    "SN",
+                    "SL",
+                    "SO",
+                    "ZA",
+                    "SD",
+                    "SZ",
+                    "TZ",
+                    "TG",
+                    "TN",
+                    "UG",
+                    "EH",
+                    "ZM",
+                    "ZW",
+                    "CG"
+                  ]
+                }
+              ],
+              "main": {
+                "url": {
+                  "canonical": "https://www.economist.com/media-assets/image/20231021_DE_EU.jpg",
+                  "__typename": "URL"
+                },
+                "__typename": "Content",
+                "width": 1280,
+                "height": 1684
+              },
+              "squareCover": [
+                {
+                  "url": {
+                    "canonical": "https://www.economist.com/media-assets/image/20231021_DE_SQ_EU.jpg",
+                    "__typename": "URL"
+                  },
+                  "__typename": "Content",
+                  "width": 1280,
+                  "height": 1280
+                }
+              ],
+              "__typename": "Media"
+            }
+          }
+        ],
+        "channel": {
+          "tegID": "j53t6hsedat4l7rkbb1le98u73262sh5",
+          "__typename": "Content"
+        },
+        "_metadata": {
+          "articleId": "/content/erh2r5ocsuuf7qklp742od3e516g9cjf",
+          "tegID": "erh2r5ocsuuf7qklp742od3e516g9cjf",
+          "title": "Speaking of goat rodeos - America’s Republicans cannot agree on a speaker. Good | Leaders | The Economist",
+          "shareSnippet": "Speaking of goat rodeos – America’s Republicans cannot agree on a speaker. Good",
+          "headline": "America’s Republicans cannot agree on a speaker. Good",
+          "section": "Leaders",
+          "keywords": [],
+          "author": [
+            "The Economist"
+          ],
+          "url": "http://54.190.52.30:8081/query/article?article_link=leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good",
+          "type": "Article",
+          "articleBody": "The view of the world from the White House end of Pennsylvania Avenue looks like this: Hamas has attacked Israel, one of America’s closest allies. The biggest war in Europe since 1945 is raging, and Ukraine needs American support to prevent it from being swallowed by Vladimir Putin. Taiwan also needs help. And a government shutdown is looming. Meanwhile at the other end of Pennsylvania Avenue, the world looks like a lot of men in suits arguing about who should be in charge of the meeting. House Republicans have spent two weeks squabbling about who should be speaker. Congress is paralysed. \nIt has been a poorly timed piece of self-indulgence. Fortunately, there is a chance of a reprieve. That could mean a Congress that works slightly better, at least temporarily, plus a fresh package of military support for Israel and for Ukraine (and perhaps for Taiwan too). The government may even stay open.\nTo recap, on October 3rd Kevin McCarthy, the House speaker, was sacked by a small faction of Republicans led by Matt Gaetz, an elaborately coiffured nepo-politician who seemed to be acting out of personal animus. With Mr McCarthy gone, Steve Scalise, an affable congressman from Louisiana who has spent a decade climbing the Republican leadership ladder, tried his luck. He was rejected by the House Republican caucus, too.\nThen Jim Jordan, a congressman from Ohio who is known for his dogged support of Donald Trump’s efforts to overturn the election of 2020 and his delight in shutting down the government at every opportunity, put himself forward for the position. This would have been like placing the most unco-operative member of a team in charge of running it, in the hope that the result would be less disruption. Mr Jordan was rejected as well. The Republicans have such a thin majority in the House that once the regicide has begun, it is hard to end the bloodletting.\nWhile this abdication of responsibility has been under way, the House has had a temporary speaker, Patrick McHenry of North Carolina. The hitherto obscure Mr McHenry has yet to receive the memo about his party being the tribunes of working-class Americans, and has never been seen in public without a bow-tie on. Yet Mr McHenry may also, by a bizarre sequence of events, now find himself in a position to change the fate of more than one country.\nBoth parties are keen to support Israel. There is also majority support in the House for continuing to arm Ukraine and fund the American government. But the Republicans who run the House have long refused to allow bills to come to a vote unless they enjoy the support of a majority of Republican lawmakers. So matters of great importance have been left to fester.\nOne possible (and indeed plausible) solution is that support for Israel is packaged together with support for Ukraine and Taiwan, some more money for border security and a bill to keep the government funded until this time next year.\nThe principles of good governance suggest these matters should be considered one by one. The dealmaking required to get them through the House, however, suggests lumping them together. Given the necessary authority, Mr McHenry could shepherd such a bill through with support from Democrats. And, because he does not officially have the job of speaker, he cannot easily be removed by his own side, as Mr McCarthy was.\nSome combination of Republicans and Democrats should grant Mr McHenry the authority, at least for now, to bring bills to the floor. All it would take is a simple majority. For pragmatic Republicans who are fed up with being at the mercy of their party’s least constructive lawmakers, it is an opportunity to break the logjam. They should take it. Israel, Taiwan and Ukraine need American help. America needs a Congress that can consider legislation. Right now it has urgent work to do. ■",
+          "description": "How the GOP could yet, inadvertently, further the national interest",
+          "ogDescription": "How the GOP could yet, inadvertently, further the national interest",
+          "imageUrl": "https://www.economist.com/media-assets/image/20231021_LDP001.jpg",
+          "imageHeight": 720,
+          "imageWidth": 1280,
+          "datePublished": "2023-10-19T12:32:02Z",
+          "dateModified": "2023-10-19T20:07:25Z",
+          "dateCreated": "2023-10-19T07:57:56Z",
+          "isPrintArticle": true,
+          "printEdition": "2023-10-21T00:00:00Z",
+          "copyrightYear": 2023,
+          "dateline": "",
+          "inLanguage": "en",
+          "interactive": false,
+          "scripts": [],
+          "css": []
+        },
+        "sectionArticles": [
+          {
+            "id": "/content/erh2r5ocsuuf7qklp742od3e516g9cjf",
+            "publication": [
+              {
+                "id": "/content/bvpfffvvsq44s2unhlqnik1h3n5hg69p",
+                "context": {
+                  "position": 200.06,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/pjj257q9a14vbkamgl0v288h08pg4ei8",
+                "context": {
+                  "position": 200.06,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/jnoqlk0cg6msv9obr9n9due07teccm6p",
+                "context": {
+                  "position": 200.06,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/dfk914ljdtrc1o3regj8aetemuansk9h",
+                "context": {
+                  "position": 200.06,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/93giihjoeur8fm2u5dr2g8lgksjogivr",
+                "context": {
+                  "position": 200.06,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/ccen7d3kjjlo00urlb5clf6psbe8d9an",
+                "context": {
+                  "position": 200.06,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/f4abapdqk52dbb3jdjnd4r7ncl9o5o3p",
+                "context": {
+                  "position": 200.06,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/o3fj58cgmo6etu04p9kphnbb4v45h7og",
+                "context": {
+                  "position": 200.06,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              }
+            ],
+            "headline": "America’s Republicans cannot agree on a speaker. Good",
+            "url": {
+              "canonical": "http://54.190.52.30:8081/query/article?article_link=leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good",
+              "__typename": "URL"
+            },
+            "__typename": "Content"
+          },
+          {
+            "id": "/content/fnerpbbuid9mt0bl28hebhv1kph11ki6",
+            "publication": [
+              {
+                "id": "/content/bvpfffvvsq44s2unhlqnik1h3n5hg69p",
+                "context": {
+                  "position": 200.09,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/pjj257q9a14vbkamgl0v288h08pg4ei8",
+                "context": {
+                  "position": 200.09,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/jnoqlk0cg6msv9obr9n9due07teccm6p",
+                "context": {
+                  "position": 200.09,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/dfk914ljdtrc1o3regj8aetemuansk9h",
+                "context": {
+                  "position": 200.09,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/93giihjoeur8fm2u5dr2g8lgksjogivr",
+                "context": {
+                  "position": 200.09,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/ccen7d3kjjlo00urlb5clf6psbe8d9an",
+                "context": {
+                  "position": 200.09,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/f4abapdqk52dbb3jdjnd4r7ncl9o5o3p",
+                "context": {
+                  "position": 200.09,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/o3fj58cgmo6etu04p9kphnbb4v45h7og",
+                "context": {
+                  "position": 200.09,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              }
+            ],
+            "headline": "How to make Britain’s health service AI-ready",
+            "url": {
+              "canonical": "http://54.190.52.30:8081/query/article?article_link=leaders/2023/10/19/how-to-make-britains-health-service-ai-ready",
+              "__typename": "URL"
+            },
+            "__typename": "Content"
+          },
+          {
+            "id": "/content/p5huijmr7qa1otelgbbh4nuiultvp8h9",
+            "publication": [
+              {
+                "id": "/content/bvpfffvvsq44s2unhlqnik1h3n5hg69p",
+                "context": {
+                  "position": 200.05,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/pjj257q9a14vbkamgl0v288h08pg4ei8",
+                "context": {
+                  "position": 200.05,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/jnoqlk0cg6msv9obr9n9due07teccm6p",
+                "context": {
+                  "position": 200.05,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/dfk914ljdtrc1o3regj8aetemuansk9h",
+                "context": {
+                  "position": 200.05,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/93giihjoeur8fm2u5dr2g8lgksjogivr",
+                "context": {
+                  "position": 200.05,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/ccen7d3kjjlo00urlb5clf6psbe8d9an",
+                "context": {
+                  "position": 200.05,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/f4abapdqk52dbb3jdjnd4r7ncl9o5o3p",
+                "context": {
+                  "position": 200.05,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/o3fj58cgmo6etu04p9kphnbb4v45h7og",
+                "context": {
+                  "position": 200.05,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              }
+            ],
+            "headline": "Only America can save Israel and Gaza from greater catastrophe",
+            "url": {
+              "canonical": "http://54.190.52.30:8081/query/article?article_link=leaders/2023/10/19/the-stakes-could-hardly-be-higher-in-the-israel-gaza-conflict",
+              "__typename": "URL"
+            },
+            "__typename": "Content"
+          },
+          {
+            "id": "/content/acib0a8vu7ir5chqd55ghs1s7l2eu381",
+            "publication": [
+              {
+                "id": "/content/bvpfffvvsq44s2unhlqnik1h3n5hg69p",
+                "context": {
+                  "position": 200.08,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/pjj257q9a14vbkamgl0v288h08pg4ei8",
+                "context": {
+                  "position": 200.08,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/jnoqlk0cg6msv9obr9n9due07teccm6p",
+                "context": {
+                  "position": 200.08,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/dfk914ljdtrc1o3regj8aetemuansk9h",
+                "context": {
+                  "position": 200.08,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/93giihjoeur8fm2u5dr2g8lgksjogivr",
+                "context": {
+                  "position": 200.08,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/ccen7d3kjjlo00urlb5clf6psbe8d9an",
+                "context": {
+                  "position": 200.08,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/f4abapdqk52dbb3jdjnd4r7ncl9o5o3p",
+                "context": {
+                  "position": 200.08,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/o3fj58cgmo6etu04p9kphnbb4v45h7og",
+                "context": {
+                  "position": 200.08,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              }
+            ],
+            "headline": "Why America’s banks need more capital",
+            "url": {
+              "canonical": "http://54.190.52.30:8081/query/article?article_link=leaders/2023/10/19/why-americas-banks-need-more-capital",
+              "__typename": "URL"
+            },
+            "__typename": "Content"
+          },
+          {
+            "id": "/content/tod2bd9fv4pkqocuq4f3u3b5pav6n9ur",
+            "publication": [
+              {
+                "id": "/content/bvpfffvvsq44s2unhlqnik1h3n5hg69p",
+                "context": {
+                  "position": 200.07,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/pjj257q9a14vbkamgl0v288h08pg4ei8",
+                "context": {
+                  "position": 200.07,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/jnoqlk0cg6msv9obr9n9due07teccm6p",
+                "context": {
+                  "position": 200.07,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/dfk914ljdtrc1o3regj8aetemuansk9h",
+                "context": {
+                  "position": 200.07,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/93giihjoeur8fm2u5dr2g8lgksjogivr",
+                "context": {
+                  "position": 200.07,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/ccen7d3kjjlo00urlb5clf6psbe8d9an",
+                "context": {
+                  "position": 200.07,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/f4abapdqk52dbb3jdjnd4r7ncl9o5o3p",
+                "context": {
+                  "position": 200.07,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              },
+              {
+                "id": "/content/o3fj58cgmo6etu04p9kphnbb4v45h7og",
+                "context": {
+                  "position": 200.07,
+                  "__typename": "Content"
+                },
+                "__typename": "Content"
+              }
+            ],
+            "headline": "Poland shows that populists can be beaten",
+            "url": {
+              "canonical": "http://54.190.52.30:8081/query/article?article_link=leaders/2023/10/17/poland-shows-that-populists-can-be-beaten",
+              "__typename": "URL"
+            },
+            "__typename": "Content"
+          }
+        ]
+      },
+      "cp2Content": {
+        "id": "feb0e753-c9b5-4bb9-a72f-7abe7594aa59",
+        "tegId": "erh2r5ocsuuf7qklp742od3e516g9cjf",
+        "brand": "ECONOMIST",
+        "section": {
+          "name": "Leaders",
+          "url": "http://54.190.52.30:8081/query/article?article_link=leaders/"
+        },
+        "authors": [],
+        "headline": "America’s Republicans cannot agree on a speaker. Good",
+        "rubric": "How the GOP could yet, inadvertently, further the national interest",
+        "flyTitle": "Speaking of goat rodeos",
+        "url": "/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good",
+        "leadComponent": {
+          "type": "IMAGE",
+          "url": "http://54.190.52.30:8081/query/article?article_link=content-assets/images/20231021_LDP001.jpg",
+          "altText": "The empty seat of the US House Speaker",
+          "mode": "NORMAL",
+          "imageType": "UNKNOWN",
+          "caption": {
+            "textHtml": ""
+          },
+          "credit": "Getty Images",
+          "source": "Getty Images",
+          "width": 1280,
+          "height": 720
+        },
+        "teaserImage": null,
+        "dateFirstPublished": "2023-10-19T12:32:02.389Z",
+        "byline": null,
+        "dateline": null,
+        "layout": {
+          "headerStyle": "STANDARD"
+        },
+        "ads": {
+          "channels": [
+            {
+              "score": "32787.293",
+              "name": "gv_safe"
+            },
+            {
+              "score": "6.794",
+              "name": "gb_safe"
+            },
+            {
+              "score": "6.794",
+              "name": "gb_safe_from_high"
+            },
+            {
+              "score": "6.794",
+              "name": "gb_safe_from_high_med"
+            },
+            {
+              "score": "6.782",
+              "name": "gs_politics"
+            },
+            {
+              "score": "6.782",
+              "name": "neg_goldmansachs_brandsafety"
+            },
+            {
+              "score": "4.616",
+              "name": "america_campaigns_elections"
+            },
+            {
+              "score": "4.437",
+              "name": "gs_science"
+            },
+            {
+              "score": "4.437",
+              "name": "gs_science_geography"
+            },
+            {
+              "score": "4.36",
+              "name": "ibm_blacklist"
+            },
+            {
+              "score": "3.852",
+              "name": "neg_omd_exclusion"
+            },
+            {
+              "score": "3.756",
+              "name": "neg_morgan_stanley_2019_neg_keywords"
+            },
+            {
+              "score": "3.727",
+              "name": "politics_general"
+            },
+            {
+              "score": "3.404",
+              "name": "america_white_house"
+            },
+            {
+              "score": "3.305",
+              "name": "legal_law"
+            },
+            {
+              "score": "2.914",
+              "name": "gs_politics_issues_policy"
+            },
+            {
+              "score": "2.914",
+              "name": "gs_politics_misc"
+            },
+            {
+              "score": "2.582",
+              "name": "gs_politics_american"
+            },
+            {
+              "score": "2.4",
+              "name": "chanel_neg"
+            },
+            {
+              "score": "2.277",
+              "name": "neg_3166_vca_brand-safety"
+            },
+            {
+              "score": "2.189",
+              "name": "america_supreme_court"
+            },
+            {
+              "score": "2.179",
+              "name": "america_department_justice"
+            },
+            {
+              "score": "1.999",
+              "name": "neg_israel-hamas_war"
+            },
+            {
+              "score": "1.892",
+              "name": "america_department_security"
+            },
+            {
+              "score": "1.643",
+              "name": "shadow9hu7_pos_israel-hamas_war"
+            },
+            {
+              "score": "1.589",
+              "name": "checks_and_balance_newsletter"
+            },
+            {
+              "score": "1.582",
+              "name": "egypt_air"
+            },
+            {
+              "score": "1.549",
+              "name": "neg_ey_kwbl"
+            },
+            {
+              "score": "1.476",
+              "name": "neg_facebook"
+            },
+            {
+              "score": "1.397",
+              "name": "gt_negative"
+            },
+            {
+              "score": "1.381",
+              "name": "america_nanny_state"
+            },
+            {
+              "score": "1.375",
+              "name": "ssga_american_growth"
+            },
+            {
+              "score": "1.292",
+              "name": "fidelity_blacklist"
+            },
+            {
+              "score": "1.282",
+              "name": "neg_zegna"
+            },
+            {
+              "score": "1.282",
+              "name": "neg_zegna23"
+            },
+            {
+              "score": "1.28",
+              "name": "neg_hsbc_asean_keywords"
+            },
+            {
+              "score": "1.271",
+              "name": "america_department_education"
+            },
+            {
+              "score": "1.246",
+              "name": "neg_sabic"
+            },
+            {
+              "score": "1.245",
+              "name": "neg_ey_brandsafety"
+            },
+            {
+              "score": "1.176",
+              "name": "cigna_healthyhybridworkplace"
+            },
+            {
+              "score": "1.127",
+              "name": "america_peace_movement"
+            },
+            {
+              "score": "1.122",
+              "name": "ssg_debt_ceiling"
+            },
+            {
+              "score": "1.077",
+              "name": "universal_negative_keywords"
+            },
+            {
+              "score": "0.995",
+              "name": "president_trump_gs"
+            },
+            {
+              "score": "0.991",
+              "name": "eu_general"
+            },
+            {
+              "score": "0.991",
+              "name": "neg_3166_vca_brand-safety3"
+            },
+            {
+              "score": "0.978",
+              "name": "trump_neg_target"
+            },
+            {
+              "score": "0.976",
+              "name": "neg_mckinsey"
+            }
+          ]
+        },
+        "dateModified": "2023-10-19T20:07:39.450Z",
+        "dateCreated": "2023-10-19T12:33:20.079Z",
+        "datePublished": "2023-10-19T20:07:25.000Z",
+        "dateRevised": "2023-10-19T12:32:05.000Z",
+        "body": [
+          {
+            "type": "PARAGRAPH",
+            "text": "The view of the world from the White House end of Pennsylvania Avenue looks like this: Hamas has attacked Israel, one of America’s closest allies. The biggest war in Europe since 1945 is raging, and Ukraine needs American support to prevent it from being swallowed by Vladimir Putin. Taiwan also needs help. And a government shutdown is looming. Meanwhile at the other end of Pennsylvania Avenue, the world looks like a lot of men in suits arguing about who should be in charge of the meeting. House Republicans have spent two weeks squabbling about who should be speaker. Congress is paralysed.",
+            "textHtml": "<span data-caps=\"initial\">T</span><small>he view</small> of the world from the White House end of Pennsylvania Avenue looks like this: <a href=\"http://54.190.52.30:8081/query/article?article_link=the-economist-explains/2023/10/10/how-powerful-is-hamas\">Hamas</a> has attacked Israel, one of America’s closest allies. The biggest war in Europe since 1945 is raging, and Ukraine needs American support to prevent it from being swallowed by <a href=\"http://54.190.52.30:8081/query/article?article_link=briefing/2023/10/17/putins-plan-to-profit-from-the-israel-hamas-war\">Vladimir Putin</a>. Taiwan also needs help. And a government shutdown is looming. Meanwhile at the other end of Pennsylvania Avenue, the world looks like a lot of men in suits arguing about who should be in charge of the meeting. <a href=\"http://54.190.52.30:8081/query/article?article_link=united-states/2023/10/19/how-the-republican-civil-war-in-the-house-could-end\">House Republicans</a> have spent two weeks squabbling about who should be speaker. Congress is paralysed."
+          },
+          {
+            "type": "PARAGRAPH",
+            "text": "It has been a poorly timed piece of self-indulgence. Fortunately, there is a chance of a reprieve. That could mean a Congress that works slightly better, at least temporarily, plus a fresh package of military support for Israel and for Ukraine (and perhaps for Taiwan too). The government may even stay open.",
+            "textHtml": "It has been a poorly timed piece of self-indulgence. Fortunately, there is a chance of a reprieve. That could mean a Congress that works slightly better, at least temporarily, plus a fresh package of military support for Israel and for Ukraine (and perhaps for Taiwan too). The government may even stay open."
+          },
+          {
+            "type": "PARAGRAPH",
+            "text": "To recap, on October 3rd Kevin McCarthy, the House speaker, was sacked by a small faction of Republicans led by Matt Gaetz, an elaborately coiffured nepo-politician who seemed to be acting out of personal animus. With Mr McCarthy gone, Steve Scalise, an affable congressman from Louisiana who has spent a decade climbing the Republican leadership ladder, tried his luck. He was rejected by the House Republican caucus, too.",
+            "textHtml": "To recap, on October 3rd Kevin McCarthy, the House speaker, was sacked by a small faction of Republicans led by Matt Gaetz, an elaborately coiffured nepo-politician who seemed to be acting out of personal animus. With Mr McCarthy gone, Steve Scalise, an affable congressman from Louisiana who has spent a decade climbing the Republican leadership ladder, tried his luck. He was rejected by the House Republican caucus, too."
+          },
+          {
+            "type": "PARAGRAPH",
+            "text": "Then Jim Jordan, a congressman from Ohio who is known for his dogged support of Donald Trump’s efforts to overturn the election of 2020 and his delight in shutting down the government at every opportunity, put himself forward for the position. This would have been like placing the most unco-operative member of a team in charge of running it, in the hope that the result would be less disruption. Mr Jordan was rejected as well. The Republicans have such a thin majority in the House that once the regicide has begun, it is hard to end the bloodletting.",
+            "textHtml": "Then Jim Jordan, a congressman from Ohio who is known for his dogged support of Donald Trump’s efforts to overturn the election of 2020 and his delight in shutting down the government at every opportunity, put himself forward for the position. This would have been like placing the most unco-operative member of a team in charge of running it, in the hope that the result would be less disruption. Mr Jordan was rejected as well. The Republicans have such a thin majority in the House that once the regicide has begun, it is hard to end the bloodletting."
+          },
+          {
+            "type": "PARAGRAPH",
+            "text": "While this abdication of responsibility has been under way, the House has had a temporary speaker, Patrick McHenry of North Carolina. The hitherto obscure Mr McHenry has yet to receive the memo about his party being the tribunes of working-class Americans, and has never been seen in public without a bow-tie on. Yet Mr McHenry may also, by a bizarre sequence of events, now find himself in a position to change the fate of more than one country.",
+            "textHtml": "While this abdication of responsibility has been under way, the House has had a temporary speaker, Patrick McHenry of North Carolina. The hitherto obscure Mr McHenry has yet to receive the memo about his party being the tribunes of working-class Americans, and has never been seen in public without a bow-tie on. Yet Mr McHenry may also, by a bizarre sequence of events, now find himself in a position to change the fate of more than one country."
+          },
+          {
+            "type": "PARAGRAPH",
+            "text": "Both parties are keen to support Israel. There is also majority support in the House for continuing to arm Ukraine and fund the American government. But the Republicans who run the House have long refused to allow bills to come to a vote unless they enjoy the support of a majority of Republican lawmakers. So matters of great importance have been left to fester.",
+            "textHtml": "Both parties are keen to support Israel. There is also majority support in the House for continuing to arm Ukraine and fund the American government. But the Republicans who run the House have long refused to allow bills to come to a vote unless they enjoy the support of a majority of Republican lawmakers. So matters of great importance have been left to fester."
+          },
+          {
+            "type": "PARAGRAPH",
+            "text": "One possible (and indeed plausible) solution is that support for Israel is packaged together with support for Ukraine and Taiwan, some more money for border security and a bill to keep the government funded until this time next year.",
+            "textHtml": "One possible (and indeed plausible) solution is that support for Israel is packaged together with support for Ukraine and Taiwan, some more money for border security and a <a href=\"http://54.190.52.30:8081/query/article?article_link=leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good\"  rel=\"nofollow\">bill</a> to keep the government funded until this time next year."
+          },
+          {
+            "type": "PARAGRAPH",
+            "text": "The principles of good governance suggest these matters should be considered one by one. The dealmaking required to get them through the House, however, suggests lumping them together. Given the necessary authority, Mr McHenry could shepherd such a bill through with support from Democrats. And, because he does not officially have the job of speaker, he cannot easily be removed by his own side, as Mr McCarthy was.",
+            "textHtml": "The principles of good governance suggest these matters should be considered one by one. The dealmaking required to get them through the House, however, suggests lumping them together. Given the necessary authority, Mr McHenry could shepherd such a bill through with support from Democrats. And, because he does not officially have the job of speaker, he cannot easily be removed by his own side, as Mr McCarthy was."
+          },
+          {
+            "type": "PARAGRAPH",
+            "text": "Some combination of Republicans and Democrats should grant Mr McHenry the authority, at least for now, to bring bills to the floor. All it would take is a simple majority. For pragmatic Republicans who are fed up with being at the mercy of their party’s least constructive lawmakers, it is an opportunity to break the logjam. They should take it. Israel, Taiwan and Ukraine need American help. America needs a Congress that can consider legislation. Right now it has urgent work to do. ■",
+            "textHtml": "Some combination of Republicans and Democrats should grant Mr McHenry the authority, at least for now, to bring bills to the floor. All it would take is a simple majority. For pragmatic Republicans who are fed up with being at the mercy of their party’s least constructive lawmakers, it is an opportunity to break the logjam. They should take it. Israel, Taiwan and Ukraine need American help. America needs a Congress that can consider legislation. Right now it has urgent work to do. <span class=\"ufinish\">■</span>"
+          }
+        ],
+        "footer": [],
+        "seo": {
+          "title": null,
+          "description": null
+        },
+        "tags": [
+          {
+            "description": "Explore our coverage of United States’ politics, economics, business and culture, in articles, charts, podcasts and video",
+            "id": "9020191e-01b3-4e13-a17f-6a52f783ed16",
+            "name": "United States",
+            "slug": "united-states"
+          }
+        ]
+      },
+      "statusCode": 200,
+      "paywallCheck": {
+        "shouldDropPaywall": false
+      },
+      "featureFlags": [
+        "SF_SIGNPOSTING",
+        "SOURCEPOINT",
+        "ONBOARDING_NOTIFICATION",
+        "ONBOARDING_GROUP_NOTIFICATION",
+        "OPTIMIZELY_SELF_HOSTING",
+        "LAPSED_USER_NOTIFICATION",
+        "CP2",
+        "IN_THIS_REPORT",
+        "REGISTRANT_ONBOARDING",
+        "SITEMAP",
+        "APP_PROMO_PAGE",
+        "CLOUDFLARE_IMAGE_FORMAT",
+        "NEXT_SCRIPT_THIRD_PARTIES",
+        "PODCAST_SHOW_PROMO_LINK_WIB",
+        "SHOW_ARTICLE_UPDATED_DATE",
+        "SUMMER_EDITION_1843",
+        "CP2_MIXING",
+        "CP2_LEAD_IMAGES",
+        "CP2_SKELETON",
+        "CP2_BODY",
+        "CP2_FEATURE_HEADER",
+        "PODCAST_NATIVE_AUDIO_PLAYER"
+      ],
+      "newsletters": {
+        "newsletters": [
+          {
+            "code": "the_war_room",
+            "availableTo": [
+              "core"
+            ],
+            "ident": "the-war-room",
+            "title": "The War Room",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/the_war_room?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "the-war-room",
+            "hasPreview": true,
+            "isNew": false,
+            "description": "The best of <em>The Economist</em>’s defence coverage, in one place",
+            "promo": {
+              "title": "",
+              "description": "",
+              "tagline": "Subscriber only"
+            },
+            "keywords": [],
+            "priority": -1,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "plot_twist",
+            "availableTo": [
+              "core"
+            ],
+            "ident": "plot-twist",
+            "title": "Plot Twist",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/Plot_Twist?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "plot-twist",
+            "hasPreview": true,
+            "isNew": false,
+            "description": "A weekly conversation about culture. Because culture is a serious business",
+            "promo": {
+              "title": "Broaden your perspective with our weekly culture newsletter",
+              "description": "Exploring trends and connections across entertainment, the arts and politics",
+              "tagline": "Subscriber only"
+            },
+            "keywords": [
+              "Culture"
+            ],
+            "priority": 2,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "blighty",
+            "availableTo": [
+              "core"
+            ],
+            "ident": "blighty",
+            "title": "Blighty",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/Blighty?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "blighty",
+            "hasPreview": true,
+            "isNew": false,
+            "description": "Analysing the challenges facing Britain and what needs to be done to overcome them",
+            "promo": {
+              "title": "Stay informed with our weekly Britain newsletter",
+              "description": "Analysing the challenges facing Britain and what needs to be done to overcome them",
+              "tagline": "Subscriber only"
+            },
+            "keywords": [
+              "Britain"
+            ],
+            "priority": 2,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "drum_tower",
+            "availableTo": [
+              "core"
+            ],
+            "ident": "drum-tower",
+            "title": "Drum Tower",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/drumtower?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "drum-tower",
+            "hasPreview": true,
+            "isNew": false,
+            "description": "Understand what the world makes of China—and what China makes of the world",
+            "promo": {
+              "title": "Stay informed with our weekly China newsletter",
+              "description": "Understand what the world makes of China—and what China makes of the world",
+              "tagline": "Subscriber only"
+            },
+            "keywords": [
+              "China"
+            ],
+            "priority": 2,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "the_bottom_line",
+            "availableTo": [
+              "core"
+            ],
+            "ident": "the-bottom-line",
+            "title": "The Bottom Line",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/the_bottom_line?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "the-bottom-line",
+            "hasPreview": true,
+            "description": "Your essential guide to global business and technology",
+            "promo": {
+              "title": "Need to track the megatrends shaping business and technology?",
+              "description": "From supply chains to semiconductors, The Bottom Line newsletter has you covered",
+              "tagline": "Subscriber only"
+            },
+            "keywords": [
+              "Business"
+            ],
+            "priority": 2,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "espresso",
+            "availableTo": [
+              "espresso",
+              "core"
+            ],
+            "ident": "the-world-in-brief",
+            "title": "The World in Brief",
+            "frequency": "Daily",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/the_world_in_brief?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "the-world-in-brief",
+            "hasPreview": true,
+            "description": "Catch up quickly on the global stories that matter",
+            "promo": {
+              "title": "Catch up quickly on the stories that matter",
+              "description": "Sign up to enjoy a mind-expanding mix of stories, delivered six days a week",
+              "tagline": "Subscriber only"
+            },
+            "keywords": [],
+            "priority": -1,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "cover_story",
+            "availableTo": [
+              "core"
+            ],
+            "ident": "cover-story",
+            "title": "Cover Story",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/Cover_Story?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "cover-story",
+            "hasPreview": true,
+            "description": "A behind-the-scenes look at how we chose and designed this week’s cover",
+            "promo": {
+              "title": "How we chose this week’s cover image",
+              "description": "Delivered to your inbox every weekend",
+              "tagline": "Subscriber only"
+            },
+            "keywords": [],
+            "priority": 3,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": true,
+            "live": true
+          },
+          {
+            "code": "checks_and_balance",
+            "availableTo": [
+              "core"
+            ],
+            "ident": "checks-and-balance",
+            "title": "Checks and Balance",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/Checks_and_Balance?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "checks-and-balance",
+            "hasPreview": true,
+            "description": "Exclusive insight from our correspondents in America",
+            "promo": {
+              "title": "Exclusive insight and reading recommendations from our correspondents in America",
+              "description": "Delivered to your inbox every week",
+              "tagline": "Subscriber only"
+            },
+            "keywords": [
+              "United States",
+              "United States Senate",
+              "Republican Party",
+              "Donald Trump",
+              "Joe Biden",
+              "Democratic Party",
+              "Executive Office of the President of the United States"
+            ],
+            "priority": 6,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "simply_science",
+            "availableTo": [
+              "core"
+            ],
+            "ident": "simply-science",
+            "title": "Simply Science",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/Simply_Science2?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "simply-science",
+            "hasPreview": true,
+            "description": "A weekly fix of our mind-expanding science coverage",
+            "promo": {
+              "title": "Curious about the world? Enjoy a weekly fix of our mind-expanding science coverage",
+              "description": "Delivered to you every week",
+              "tagline": "Subscriber only"
+            },
+            "keywords": [
+              "science and technology",
+              "Science & technology",
+              "biology",
+              "astronomy",
+              "philosophy",
+              "chemistry",
+              "diseases and conditions",
+              "genetics",
+              "cancer",
+              "medicine",
+              "physics"
+            ],
+            "priority": 4,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "climate_change",
+            "availableTo": [
+              "core"
+            ],
+            "ident": "the-climate-issue",
+            "title": "The Climate Issue",
+            "frequency": "Fortnightly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/Climate_issue?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "the-climate-issue",
+            "hasPreview": true,
+            "description": "Climate-change analysis that you won’t read elsewhere in <em>The Economist</em>",
+            "promo": {
+              "title": "Climate-change analysis that you won’t read elsewhere in <em>The Economist</em>",
+              "description": "Delivered to your inbox every fortnight",
+              "tagline": "Subscriber only"
+            },
+            "keywords": [
+              "energy industry",
+              "migration of people",
+              "weather",
+              "energy and resource",
+              "plant",
+              "synthetic and plastic chemicals",
+              "forestry and timber",
+              "climate change",
+              "global warming",
+              "environment",
+              "environmental politics",
+              "environmental pollution"
+            ],
+            "priority": 5,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "money_talks",
+            "availableTo": [
+              "core"
+            ],
+            "ident": "money-talks",
+            "title": "Money Talks",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/money_talks?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "money-talks",
+            "hasPreview": true,
+            "description": "Expert analysis of the biggest stories in economics and markets",
+            "promo": {
+              "title": "Expert analysis of the biggest stories in economics and markets",
+              "description": "Delivered to your inbox every week",
+              "tagline": "Subscriber only"
+            },
+            "keywords": [
+              "Finance & economics"
+            ],
+            "priority": 100,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "off_the_charts",
+            "availableTo": [
+              "core"
+            ],
+            "ident": "off-the-charts",
+            "title": "Off the Charts",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/Off_the_charts2?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "off-the-charts",
+            "hasPreview": true,
+            "description": "Taking you behind the scenes of our data journalism",
+            "promo": {
+              "title": "Taking you behind the scenes of our data journalism",
+              "description": "Directly to your inbox every week",
+              "tagline": "Subscriber only"
+            },
+            "keywords": [
+              "Graphic detail"
+            ],
+            "priority": 99,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "the_extraordinary_story",
+            "availableTo": [
+              "anonymous",
+              "registered",
+              "espresso",
+              "podcast",
+              "core"
+            ],
+            "ident": "the-extraordinary-story",
+            "title": "The Extraordinary Story",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/the_extraordinary_story?oid=00D3z000002JvyiEAC",
+            "slug": "the-extraordinary-story",
+            "hasPreview": true,
+            "description": "Long reads and life from <em>1843 magazine</em>",
+            "promo": {
+              "title": "Long reads and life from <em>1843 magazine</em>",
+              "description": "Delivered to your inbox every weekend",
+              "tagline": ""
+            },
+            "keywords": [
+              "1843 magazine"
+            ],
+            "priority": 100,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "te_today",
+            "availableTo": [
+              "anonymous",
+              "registered",
+              "espresso",
+              "podcast",
+              "core"
+            ],
+            "ident": "the-economist-today",
+            "title": "The Economist today",
+            "frequency": "Daily",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/The_Economist_Today?oid=00D3z000002JvyiEAC",
+            "slug": "the-economist-today",
+            "hasPreview": true,
+            "description": "The very best of our journalism, handpicked for you each weekday",
+            "promo": {
+              "title": "Handpicked stories, in your inbox",
+              "description": "A daily newsletter with the best of our journalism",
+              "tagline": ""
+            },
+            "keywords": [],
+            "priority": 0,
+            "isKeywordFallback": true,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "te_this_week",
+            "availableTo": [
+              "anonymous",
+              "registered",
+              "espresso",
+              "podcast",
+              "core"
+            ],
+            "ident": "the-economist-this-week",
+            "title": "The Economist this week",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/The_Economist_This_Week?oid=00D3z000002JvyiEAC",
+            "slug": "the-economist-this-week",
+            "hasPreview": true,
+            "description": "Highlights from the latest weekly issue, introduced by our editor",
+            "promo": {
+              "title": "Highlights from the latest weekly issue, introduced by our editor",
+              "description": "Directly to your inbox every week",
+              "tagline": ""
+            },
+            "keywords": [],
+            "priority": 2,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": true,
+            "live": true
+          }
+        ],
+        "status": "ok"
+      }
+    }
+  },
+  "page": "/[...slug]",
+  "query": {
+    "slug": [
+      "leaders",
+      "2023",
+      "10",
+      "19",
+      "americas-republicans-cannot-agree-on-a-speaker-good"
+    ]
+  },
+  "buildId": "tTpwD1NPwvR6Y9qoYGkMz",
+  "assetPrefix": "/engassets",
+  "isFallback": false,
+  "gip": true,
+  "appGip": true,
+  "scriptLoader": []
+}

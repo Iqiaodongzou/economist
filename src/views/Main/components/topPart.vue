@@ -7,23 +7,22 @@
             <div class="css-1twe5b9 ekfon2k0">
               <div class="css-z9n3kh ej11e0o0">
                 <figure class="css-qts40t e1197rjj0">
-                  <img theme="[object Object]" fetchpriority="high" alt="" :width="parts[0].image.main.width"
-                       :height="parts[0].image.main.height" decoding="async"
+                  <img theme="[object Object]" fetchpriority="high" alt="" :width="pageProps?.hasPart?.parts[0].image.main.width"
+                       :height="pageProps?.hasPart?.parts[0].image.main.height" decoding="async"
                        data-nimg="1" style="color:transparent"
                        sizes="(min-width: 1440px) 700px, (min-width: 1280px) 600px, (min-width: 960px) 66vw, 90vw"
-                       :src="parts[0].image.main.url.canonical"/>
+                       :src="pageProps?.hasPart?.parts[0].image.main.url.canonical"/>
                 </figure>
               </div>
-              <p class="css-1elpt04 e17fls870"> <!-- -->{{ parts[0].articleSection.internal[0].headline }}</p>
+              <p class="css-1elpt04 e17fls870"> <!-- -->{{ pageProps?.hasPart?.parts[0].articleSection?.internal[0].headline }}</p>
               <h3 class="css-1nh4cha e1rr6cni0"><a
-                  :href="parts[0].url.canonical"
-                  data-analytics="top_stories:headline_1">{{ parts[0].headline }}</a></h3>
-              <p class="css-sn9piy er8c6600">{{ parts[0].description }}</p>
+                  :href="pageProps?.hasPart?.parts[0].url.canonical"
+                  data-analytics="top_stories:headline_1">{{ pageProps?.hasPart?.parts[0].headline }}</a></h3>
+              <p class="css-sn9piy er8c6600">{{ pageProps?.hasPart?.parts[0].description }}</p>
             </div>
           </div>
           <div class="css-ieli9y e1mdktgm0">
-            <template v-for="(item,index) in parts" v-if="index > 0 && index < 3">
-
+            <template v-for="(item,index) in pageProps?.hasPart?.parts" v-if="index > 0 && index < 3">
               <div class="ekfon2k0" :class="index === 1 ? 'css-1p9run8' : 'css-1r990wx'">
 
                 <div v-if="index === 1" class="css-1t7n40o ej11e0o0">
@@ -32,13 +31,13 @@
                          :height="item.image.main.height" decoding="async" data-nimg="1"
                          style="color:transparent"
                          sizes="(min-width: 1440px) 335px, (min-width: 1280px) 22.5vw, (min-width: 960px) 30vw, (min-width: 600px) 47.5vw, 95vw"
-                         :src="item.image.main.url.canonical"
+                         :src="item.image.main?.url.canonical"
                     >
                   </figure>
                 </div>
-                <p class="css-1elpt04 e17fls870"> <!-- -->{{ item.articleSection.internal[0].headline }}</p>
+                <p class="css-1elpt04 e17fls870" v-if="item.articleSection.internal?.length"> <!-- -->{{ item?.articleSection?.internal[0]?.headline }}</p>
                 <h3 class="css-zmb6q0 e1rr6cni0"><a
-                    :href="item.url.canonical"
+                    :href="item?.url.canonical"
                     data-analytics="top_stories:headline_2">{{ item.headline }}</a>
                 </h3>
                 <p class="css-1xxp0vh er8c6600">{{ item.description }}</p>
@@ -67,7 +66,7 @@
           <div class="css-1gudbqu e1mdktgm0">
             <div class="css-r5rvo2 e8tkvfk0">
 
-              <div v-for="(item,index) in parts" v-if="index >=3" class="css-17glo8i e1mdktgm0">
+              <div v-for="(item,index) in pageProps?.hasPart?.parts" v-if="index >=3" class="css-17glo8i e1mdktgm0">
                 <div class="css-1nsgpej ekfon2k0">
                   <div class="css-18ehd7y ej11e0o0">
                     <figure class="css-qts40t e1197rjj0">
@@ -76,11 +75,11 @@
                            :height="item.height" decoding="async" data-nimg="1"
                            style="color:transparent"
                            sizes="(min-width: 1440px) 335px, (min-width: 960px) 285px, (min-width: 600px) 296px, 182px"
-                           :src="item.image.main.url.canonical">
+                           :src="item.image.main?.url.canonical">
                     </figure>
                   </div>
                   <h3 class="css-13u88cu e1rr6cni0"><a
-                      :href="item.url.canonical"
+                      :href="item?.url.canonical"
                       data-analytics="top_stories:headline_4">{{item.headline}}</a>
                   </h3>
                   <p class="css-1xxp0vh er8c6600">{{item.description}}</p>
@@ -99,25 +98,25 @@ export default {
   name: "topPart",
   data() {
     return {
-      parts: this.data.hasPart.parts,
+      pageProps: this.data,
       WorldInBriefDOMList:null,
     }
   },
   mounted() {
 
-    let dom  = this.createEle('div')
-    let h2DOM = this.createEle('h2')
+    let dom  = this.$createEle('div')
+    let h2DOM = this.$createEle('h2')
     h2DOM.className = 'ds-section-headline ds-section-headline--rule-accent'
     h2DOM.innerText = 'The world in brief'
     dom.appendChild(h2DOM)
     this.worldInBrief.text.map((item,index)=>{
       if(index< 3){
 
-        let divEle = this.createEle('div');
+        let divEle = this.$createEle('div');
         divEle.className = '_gobbet css-111mrt0 ex3zz5c0'
-        let pEle =this.createEle("p")
+        let pEle =this.$createEle("p")
 
-        this.createDOM(pEle,item.children)
+        this.$createDOM(pEle,item.children,function(){},50)
         pEle.innerHTML += '...'
         divEle.appendChild(pEle)
         dom.appendChild(divEle)
@@ -128,25 +127,6 @@ export default {
 
   },
   methods:{
-    createDOM(ele,list = []){
-      list.map(item=>{
-        if(item.type === 'tag'){
-          let contentEle = this.createEle(item.name)
-          if(item.children){
-            this.createDOM(contentEle,item.children)
-          }
-          ele.appendChild(contentEle)
-
-        }
-        if(item.type === 'text'){
-          ele.innerHTML += item.data.split(" ").filter((item,index)=>index<12).join(" ")
-        }
-      })
-    },
-    createEle(type){
-      this.ele = document.createElement(type)
-      return this.ele;
-    }
   },
   props: ['data','worldInBrief']
 }

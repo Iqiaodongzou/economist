@@ -50,11 +50,6 @@ export default {
     return {}
   },
   mounted() {
-    this.sections.map(item=>{
-      item.articles.map(item=>{
-        item.image.src = item.image.src.split("article_link=")[1]
-      })
-    })
   },
   props: ["sections"]
 }
