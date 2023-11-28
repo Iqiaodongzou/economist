@@ -204,10 +204,15 @@ export default {
       if(content?.hasPart?.parts?.length){
         let obj = {}
         content.hasPart.parts.map(item=>{
-          if(!obj[item?.print?.section?.headline]){
-            obj[item.print.section.headline] = []
+          if(item.print === null){
+            console.log("aha we got an empty item print is null")
+            console.log(item)
+          } else {
+            if(!obj[item?.print?.section?.headline]){
+              obj[item.print.section.headline] = []
+            }
+            obj[item.print.section.headline].push(item)
           }
-          obj[item.print.section.headline].push(item)
         })
         this.content = obj
       }

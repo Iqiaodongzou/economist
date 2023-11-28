@@ -237,7 +237,14 @@ export default {
         this.pageProps = res.data.props.pageProps;
         this.$changeObj(this.pageProps, 'object', this.changeImg);
         this.$changeObj(this.pageProps,'object',this.changeUrl);
-        this.publication = this.pageProps.content.publication[(Math.random() * this.pageProps.content.publication.length).toFixed(0)]
+        //this.publication = this.pageProps.content.publication[(Math.random() * this.pageProps.content.publication.length).toFixed(0)]
+        if(this.pageProps.content.publication === null){
+          console.log("while publication is null call this function")
+          this.publication = this.pageProps.content.articleSection
+        } else {
+          console.log("still there error?")
+          this.publication = this.pageProps.content.publication[(Math.random() * this.pageProps.content.publication.length).toFixed(0)]
+        }
         this.changeTextHTML()
         console.log(this.publication)
       }).catch(err => {
